@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: daegu-netzero-demo
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    autoDeployTrigger: off

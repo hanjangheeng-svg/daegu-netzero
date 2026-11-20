@@ -1,0 +1,3 @@
+﻿filename,coverage,granularity,source,restriction
+daegu_electricity_official_2018_2022.csv,2018~2022,annual city by 4 uses,북구 탄소중립계획 표3-38,도시 전체 실측 전력 판매량
+daegu_gas_official_2018_2019.csv,2018~2019,annual city by 5 uses,북구 탄소중립계획 표3-40,가스 기타는 열병합 등 포함하여 전기화 제외
